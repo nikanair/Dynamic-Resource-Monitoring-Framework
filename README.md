@@ -1,1 +1,1 @@
-# Energy connsumption analyzer
+# Energy consumption analyzer
