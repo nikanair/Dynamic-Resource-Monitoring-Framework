@@ -4,7 +4,7 @@ This Python application continuously monitors **CPU**, **GPU**, and **RAM** usag
 
 ---
 
-## 🚀 Features
+## Features
 
 - Monitors **CPU usage (%)** using `psutil`.
 - Monitors **RAM usage (%)** using `psutil`.
