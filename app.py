@@ -1,7 +1,6 @@
 # Application to estimate the CPU, GPU and RAM Energy consumption
 # Sowparnika_02_06_2023
 
-# Importing the required libraries
 import psutil
 import GPUtil
 import numpy as np
